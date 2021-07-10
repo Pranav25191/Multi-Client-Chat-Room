@@ -1,6 +1,5 @@
 """
-    Done by:   AKAVARAPU TEJA       1904132
-               BALIJAPELLY PRANAV   1903108
+    Done by: BALIJAPELLY PRANAV   
     Function Description: This program is 
 """
 ############################################################################################
